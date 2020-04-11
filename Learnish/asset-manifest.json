@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projects/Learnish/static/css/main.0fb80e35.chunk.css",
+    "main.js": "/projects/Learnish/static/js/main.f99b5163.chunk.js",
+    "main.js.map": "/projects/Learnish/static/js/main.f99b5163.chunk.js.map",
+    "runtime-main.js": "/projects/Learnish/static/js/runtime-main.068a38fe.js",
+    "runtime-main.js.map": "/projects/Learnish/static/js/runtime-main.068a38fe.js.map",
+    "static/css/2.9f4a86d1.chunk.css": "/projects/Learnish/static/css/2.9f4a86d1.chunk.css",
+    "static/js/2.12249075.chunk.js": "/projects/Learnish/static/js/2.12249075.chunk.js",
+    "static/js/2.12249075.chunk.js.map": "/projects/Learnish/static/js/2.12249075.chunk.js.map",
+    "index.html": "/projects/Learnish/index.html",
+    "precache-manifest.a9d3cbb0d68eea7367095421dea9965b.js": "/projects/Learnish/precache-manifest.a9d3cbb0d68eea7367095421dea9965b.js",
+    "service-worker.js": "/projects/Learnish/service-worker.js",
+    "static/css/2.9f4a86d1.chunk.css.map": "/projects/Learnish/static/css/2.9f4a86d1.chunk.css.map",
+    "static/css/main.0fb80e35.chunk.css.map": "/projects/Learnish/static/css/main.0fb80e35.chunk.css.map",
+    "static/media/P1.jpg": "/projects/Learnish/static/media/P1.86183d96.jpg",
+    "static/media/P2.jpg": "/projects/Learnish/static/media/P2.de0acf33.jpg",
+    "static/media/P3.jpg": "/projects/Learnish/static/media/P3.fdae38ce.jpg",
+    "static/media/P4.jpg": "/projects/Learnish/static/media/P4.5c557e29.jpg",
+    "static/media/About.css": "/projects/Learnish/static/media/abtBG.18debe05.jpg",
+    "static/media/Home.css": "/projects/Learnish/static/media/hero_Bg.7961feb4.jpg",
+    "static/media/stud.png": "/projects/Learnish/static/media/stud.adaae096.png"
+  }
+}
